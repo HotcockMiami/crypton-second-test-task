@@ -1,0 +1,5 @@
+Пост запрос (http://127.0.0.1:8000/api/)
+{"name":"asdf", "data":"asdfasd", "timestamp": 1603538440}
+
+Гет запрос
+curl --request GET --url http://127.0.0.1:8000/api/ --header 'content-type: application/json' --data '{"timestamp":0}'

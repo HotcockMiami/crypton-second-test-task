@@ -1,0 +1,4 @@
+/crypton_venv
+/StatAPI/__pycache__
+/StatAPI/StatApp/__pycache__
+/db.sqlite3
