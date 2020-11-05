@@ -2,7 +2,8 @@
 
 Принимает следующий JSON:
 
-```{
+```
+{
     "Name": "some name", # text
     "Data": "some data", # text
     "timestamp": "time" # unixtime format
